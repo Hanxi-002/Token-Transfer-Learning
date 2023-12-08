@@ -1,1 +1,3 @@
 # Token-Transfer-Learning
+Music, like words, has inherent semantics and meaning. The composition, order of the notes, are tied to the expressiveness of the music piece such as genre, tempo, instrumentation and more. Understanding and replicating semantics are crucial for generating music that is coherent and emotionally resonant. We present a music generation model leveraging different neural network architectures to extract informative embedding and employ Markov models to comprehend and replicate the semantics of music, facilitating the creation of coherent and emotionally resonant musical compositions.
+
