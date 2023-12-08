@@ -1,0 +1,3 @@
+[submodule "Full-MIDI-Music-Transformer"]
+	path = Full-MIDI-Music-Transformer
+	url = git@github.com:asigalov61/Full-MIDI-Music-Transformer.git
